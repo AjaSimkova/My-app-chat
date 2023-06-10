@@ -1,0 +1,45 @@
+.main-title {
+  color: aliceblue;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.box-explain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 4rem;
+  font-size: 32px;
+}
+
+input {
+  height: 10rem;
+  width: 35rem;
+  margin-inline: 26rem;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 6px 6px rgb(103, 64, 112);
+  font-family: "Times New Roman", Times, serif;
+}
+
+button {
+  color: rgb(27, 31, 33);
+  background-color: rgb(245, 241, 250);
+  text-align: center;
+  width: 8rem;
+  height: 3rem;
+  margin-inline: 40rem;
+  margin-top: 1rem;
+  border-radius: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+button:hover {
+  background-color: rgb(208, 171, 243);
+}
+
+p {
+  color: aliceblue;
+  text-align: center;
+  font-size: 20px;
+  margin-inline: 6rem;
+}
